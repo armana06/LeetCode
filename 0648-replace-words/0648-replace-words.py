@@ -13,6 +13,6 @@ class Solution:
                     break
             if not added:
                 ans+=word
-            if j != len(words):
+            if j != len(words) - 1:
                 ans+=' '
-        return ans[0: len(ans) - 1]
+        return ans
