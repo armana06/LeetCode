@@ -6,9 +6,11 @@ class Solution:
         for j in range(0, len(words)):
             word = words[j]
             added = False
+            temp = ''
             for i in range(0, len(word)):
-                if word[0:i + 1] in roots :
-                    ans+=word[0:i + 1]
+                temp+=word[i]
+                if temp in roots :
+                    ans+=temp
                     added = True
                     break
             if not added:
