@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/armana06/LeetCode/tree/master/0091-decode-ways) |
 | [2727-number-of-senior-citizens](https://github.com/armana06/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/armana06/LeetCode/tree/master/0045-jump-game-ii) |
+| [0091-decode-ways](https://github.com/armana06/LeetCode/tree/master/0091-decode-ways) |
 ## Greedy
 |  |
 | ------- |
