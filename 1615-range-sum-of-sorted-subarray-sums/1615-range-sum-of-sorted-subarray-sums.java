@@ -1,6 +1,6 @@
 class Solution {
     public int rangeSum(int[] nums, int n, int left, int right) {
-        PriorityQueue<Long> sortedSum = new PriorityQueue<Long>();
+        ArrayList<Long> sortedSum = new ArrayList<Long>();
         long[][] sums = new long[nums.length][nums.length];
         int ans = 0;
         int sum = 0;
@@ -20,12 +20,9 @@ class Solution {
                 sortedSum.add(sums[i][j]);
             }
         }
-        for(int i = 0; i < right; ++i) {
-            if(i < left - 1) {
-                sortedSum.poll();
-                continue;
-            }
-            sum = (int) (sum + ((sortedSum.poll() % ((int) (Math.pow(10, 9) + 7))))) % ((int) (Math.pow(10, 9) + 7)) ;
+        Collections.sort(sortedSum);
+        for(int i = left - 1; i < right; ++i) {
+            sum = (int) (sum + ((sortedSum.get(i) % ((int) (Math.pow(10, 9) + 7))))) % ((int) (Math.pow(10, 9) + 7)) ;
         }
         return sum;
     }
