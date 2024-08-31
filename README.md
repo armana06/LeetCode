@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/armana06/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/armana06/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Union Find
 |  |
@@ -66,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/armana06/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/armana06/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/armana06/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/armana06/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
