@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/armana06/LeetCode/tree/master/0045-jump-game-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/armana06/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/armana06/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/armana06/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/armana06/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/armana06/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/armana06/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/armana06/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/armana06/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
