@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/armana06/LeetCode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/armana06/LeetCode/tree/master/0045-jump-game-ii) |
 | [0200-number-of-islands](https://github.com/armana06/LeetCode/tree/master/0200-number-of-islands) |
+| [0253-meeting-rooms-ii](https://github.com/armana06/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/armana06/LeetCode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/armana06/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/armana06/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -38,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/armana06/LeetCode/tree/master/0045-jump-game-ii) |
+| [0253-meeting-rooms-ii](https://github.com/armana06/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/armana06/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/armana06/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/armana06/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/armana06/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/armana06/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/armana06/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0253-meeting-rooms-ii](https://github.com/armana06/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/armana06/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -107,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/armana06/LeetCode/tree/master/0200-number-of-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/armana06/LeetCode/tree/master/0253-meeting-rooms-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/armana06/LeetCode/tree/master/0253-meeting-rooms-ii) |
 <!---LeetCode Topics End-->
