@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/armana06/LeetCode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/armana06/LeetCode/tree/master/0045-jump-game-ii) |
+| [1107-minimum-swaps-to-group-all-1s-together](https://github.com/armana06/LeetCode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/armana06/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/armana06/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/armana06/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/armana06/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1107-minimum-swaps-to-group-all-1s-together](https://github.com/armana06/LeetCode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 <!---LeetCode Topics End-->
