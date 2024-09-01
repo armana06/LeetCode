@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/armana06/LeetCode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/armana06/LeetCode/tree/master/0045-jump-game-ii) |
+| [0200-number-of-islands](https://github.com/armana06/LeetCode/tree/master/0200-number-of-islands) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/armana06/LeetCode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/armana06/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/armana06/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -61,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/armana06/LeetCode/tree/master/0200-number-of-islands) |
 | [0669-trim-a-binary-search-tree](https://github.com/armana06/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/armana06/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/armana06/LeetCode/tree/master/0200-number-of-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/armana06/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Graph
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/armana06/LeetCode/tree/master/0200-number-of-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/armana06/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
@@ -99,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/armana06/LeetCode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/armana06/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
