@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/armana06/LeetCode/tree/master/0200-number-of-islands) |
 | [0669-trim-a-binary-search-tree](https://github.com/armana06/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/armana06/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1484-linked-list-in-binary-tree](https://github.com/armana06/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/armana06/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/armana06/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -102,11 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/armana06/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/armana06/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/armana06/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/armana06/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1484-linked-list-in-binary-tree](https://github.com/armana06/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/armana06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/armana06/LeetCode/tree/master/0200-number-of-islands) |
+| [1484-linked-list-in-binary-tree](https://github.com/armana06/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
