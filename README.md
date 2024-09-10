@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/armana06/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0091-decode-ways](https://github.com/armana06/LeetCode/tree/master/0091-decode-ways) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/armana06/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/armana06/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2155-find-missing-observations](https://github.com/armana06/LeetCode/tree/master/2155-find-missing-observations) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/armana06/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
