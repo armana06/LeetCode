@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/armana06/LeetCode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/armana06/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/armana06/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/armana06/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/armana06/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/armana06/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/armana06/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/armana06/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Search Tree
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/armana06/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/armana06/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/armana06/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Linked List
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/armana06/LeetCode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/armana06/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/armana06/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
