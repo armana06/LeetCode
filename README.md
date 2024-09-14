@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/armana06/LeetCode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/armana06/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/armana06/LeetCode/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/armana06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/armana06/LeetCode/tree/master/0200-number-of-islands) |
 | [0253-meeting-rooms-ii](https://github.com/armana06/LeetCode/tree/master/0253-meeting-rooms-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/armana06/LeetCode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/armana06/LeetCode/tree/master/0200-number-of-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/armana06/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/armana06/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/armana06/LeetCode/tree/master/0048-rotate-image) |
 | [2155-find-missing-observations](https://github.com/armana06/LeetCode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/armana06/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Trie
