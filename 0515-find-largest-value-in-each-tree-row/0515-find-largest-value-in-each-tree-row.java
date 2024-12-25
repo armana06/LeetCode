@@ -14,23 +14,23 @@
  * }
  */
 class Solution {
-    HashMap<Integer, Integer> greatMap = new HashMap<Integer, Integer>();        
+    List<Integer> ans = new ArrayList<Integer>();
     public List<Integer> largestValues(TreeNode root) {
-        List<Integer> ans = new ArrayList<Integer>();
-        int max = large(root, 0);
-        for(int i = 0; i < max; ++i) {
-            ans.add(i, greatMap.get(i));
-        }
+        large(root, 0);
         return ans;
     }
-    public int large(TreeNode root, int i) {
+    public void large(TreeNode root, int i) {
         if(root == null) {
-            return i;
+            return ;
         }
-        if(!greatMap.containsKey(i) || root.val > greatMap.get(i)) {
-            greatMap.put(i, root.val);
+        if(ans.size() == i) {
+            ans.add(root.val);
         }
-       return Math.max(large(root.left, i + 1), large(root.right, i + 1));
+        if(root.val > ans.get(i)) {
+            ans.set(i, root.val);
+        }
+        large(root.right, i + 1);
+        large(root.left, i + 1);
         
     }
 }
