@@ -4,7 +4,7 @@ class Solution {
         Integer[] dp = new Integer[words.length + 1];
         dp[0] = isVowel(words[0].charAt(0)) && isVowel(words[0].charAt(words[0].length() - 1)) ? 1 : 0;
         for(int i = 0; i < queries.length; ++i) {
-            ans[i] = fillDp(queries[i][1], dp, words) - fillDp(queries[i][0] - 1, dp, words) ;   
+            ans[i] =  -1 *  fillDp(queries[i][0] - 1, dp, words)  + fillDp(queries[i][1], dp, words);   
         }
         return ans;
     }
