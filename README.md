@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/armana06/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/armana06/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/armana06/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/armana06/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/armana06/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/armana06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/armana06/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/armana06/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/armana06/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/armana06/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/armana06/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/armana06/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/armana06/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/armana06/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/armana06/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/armana06/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/armana06/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Backtracking
 |  |
 | ------- |
