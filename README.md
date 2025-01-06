@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/armana06/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/armana06/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/armana06/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/armana06/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/armana06/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/armana06/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/armana06/LeetCode/tree/master/2155-find-missing-observations) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/armana06/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0091-decode-ways](https://github.com/armana06/LeetCode/tree/master/0091-decode-ways) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/armana06/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/armana06/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/armana06/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/armana06/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/armana06/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/armana06/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/armana06/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/armana06/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/armana06/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/armana06/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Backtracking
