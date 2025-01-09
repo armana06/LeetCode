@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/armana06/LeetCode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/armana06/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/armana06/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/armana06/LeetCode/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/armana06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/armana06/LeetCode/tree/master/0198-house-robber) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/armana06/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/armana06/LeetCode/tree/master/0077-combinations) |
 ## Math
 |  |
