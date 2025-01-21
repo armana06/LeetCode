@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/armana06/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/armana06/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/armana06/LeetCode/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/armana06/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/armana06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/armana06/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/armana06/LeetCode/tree/master/0200-number-of-islands) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/armana06/LeetCode/tree/master/0056-merge-intervals) |
 | [0253-meeting-rooms-ii](https://github.com/armana06/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/armana06/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/armana06/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
