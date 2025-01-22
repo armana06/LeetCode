@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/armana06/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/armana06/LeetCode/tree/master/0952-word-subsets) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/armana06/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1894-merge-strings-alternately](https://github.com/armana06/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/armana06/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/armana06/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/armana06/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/armana06/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0253-meeting-rooms-ii](https://github.com/armana06/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/armana06/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1894-merge-strings-alternately](https://github.com/armana06/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3195-separate-black-and-white-balls](https://github.com/armana06/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
