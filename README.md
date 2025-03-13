@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/armana06/LeetCode/tree/master/0045-jump-game-ii) |
 | [0253-meeting-rooms-ii](https://github.com/armana06/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [1879-maximum-score-from-removing-stones](https://github.com/armana06/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/armana06/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/armana06/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/armana06/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/armana06/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [1879-maximum-score-from-removing-stones](https://github.com/armana06/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/armana06/LeetCode/tree/master/0048-rotate-image) |
+| [1879-maximum-score-from-removing-stones](https://github.com/armana06/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2155-find-missing-observations](https://github.com/armana06/LeetCode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/armana06/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/armana06/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
