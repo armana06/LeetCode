@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/armana06/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/armana06/LeetCode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/armana06/LeetCode/tree/master/0038-count-and-say) |
 | [0091-decode-ways](https://github.com/armana06/LeetCode/tree/master/0091-decode-ways) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/armana06/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/armana06/LeetCode/tree/master/0952-word-subsets) |
